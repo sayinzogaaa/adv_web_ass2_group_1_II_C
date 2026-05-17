@@ -9,8 +9,8 @@ Group 1 — Year II C | Submission: Friday 15 May 2026
 
 | Item | URL |
 |------|-----|
-| **GitHub Repository** | `https://github.com/YOUR_GITHUB_USERNAME/adv_web_ass2_group_1_II_C` |
-| **Live Deployed App** | `https://YOUR_SUBDOMAIN.infinityfreeapp.com/public/index.php` |
+| **GitHub Repository** | `https://github.com/sayinzogaaa/adv_web_ass2_group_1_II_C` |
+| **Live Deployed App** | `https://sayinzoga.infinityfreeapp.com` |
 
 > **Action required:** Replace the placeholders above after deployment, then commit this README.
 
