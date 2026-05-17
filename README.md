@@ -83,7 +83,7 @@ php -S localhost:8000 -t public/
 
 | Role  | Username | Password   |
 |-------|----------|------------|
-| Admin | `admin`  | `admin123` |
+| admins | `Admin`  | `123` |
 
 ---
 
