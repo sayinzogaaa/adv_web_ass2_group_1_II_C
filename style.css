@@ -1,0 +1,26 @@
+body{
+   font-family: Arial;
+   margin:0;
+   padding:0;
+   background:#f4f4f4;
+}
+
+header{
+   background:chocolate;
+   color:white;
+   padding:20px;
+}
+
+form{
+   background:white;
+   width:50%;
+   margin:auto;
+   padding:20px;
+}
+
+button{
+   background:chocolate;
+   color:white;
+   border:none;
+   padding:10px 20px;
+}
